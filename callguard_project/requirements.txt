@@ -1,0 +1,11 @@
+asgiref==3.7.2
+channels==4.0.0
+channels_redis==4.1.0
+Django==4.2.4
+djangorestframework==3.14.0
+nltk==3.9
+pandas==1.5.3
+python-dotenv==0.21.1
+redis==4.6.0
+scikit-learn==1.2.2
+twilio  # Install the latest version available
